@@ -1,0 +1,55 @@
+input{
+    width:260px;
+}
+button{
+    margin:10px;
+}
+.vix{
+    display:flex;
+    justify-content:center;
+}
+img{
+    border-radius:60px;
+}
+.vixx{
+    color:red;
+}
+.mes{
+    color:darkblue;
+    font-family: 'Lobster', cursive;
+    background:white;
+    border-radius:20px;
+    padding:1px;
+    margin:10px;
+}
+html{
+    background:lightblue;
+    display:flex;
+    justify-content:center;
+}
+input{
+    border-radius:10px;
+    padding:10px;
+}
+button{
+    border-radius:10px;
+    padding:6px;
+}
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTzptmnE29Hx-es96z-lDWqnVjG4XMdnFJqmuZudAC2Hpce7V");
+}
+p{
+    color:white;
+}
+h3{
+color:black;
+background-color:white;
+margin:10px;
+padding:10px;
+border-radius:10px;
+}
+.img{
+display:flex;
+display:none;
+ justify-content:center;
+}
